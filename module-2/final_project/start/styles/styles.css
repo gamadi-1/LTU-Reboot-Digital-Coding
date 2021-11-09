@@ -26,14 +26,14 @@ main{
     width:calc(75% - 40px);
     float:left;
     padding: 20px;
-    background: red;
+  
 }
 
 aside{
     width:calc(25% - 40px);
     float:left;
     padding: 20px;
-    background: blue;
+    
 
 }
 
@@ -45,3 +45,18 @@ aside{
     }
 }
 
+.imageContainer{
+    display:flex ;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.imageContainer div{
+    max-width:calc(25% - 20px);
+    padding:10px;
+}
+
+.imageContainer div img{
+    max-width:100%;
+}
