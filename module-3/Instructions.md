@@ -42,13 +42,13 @@
 4. Call the function totalPrice passing in the variable inStock
 5. Convert your function into an arrow function
 
-## Task 7
-
-1. Create a function called productDiscount
+#ction called productDiscount
 2. Next inside the function create a if else statement checking to see if the quantity is more than 1
 3. If its true inside the if statement take away discountAmount from the price, don't forget the quantity
 4. And console.log out the new price
-5. If it wasn't true in the else statement console.log just the price `*` quantity
+5. If it wasn't true in # Task 7
+
+1. Create a funthe else statement console.log just the price `*` quantity
 6. Finally call the function
 
 ## Task 8
