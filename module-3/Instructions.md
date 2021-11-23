@@ -82,6 +82,13 @@
    - quantity
    - inStock
    - discountAmount
+1. Create an array and each item will be the variables we created earlier :
+
+   - productName
+   - price
+   - quantity
+   - inStock
+   - discountAmount
 
 ## Task 11
 
